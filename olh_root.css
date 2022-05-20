@@ -1,0 +1,13 @@
+:root {
+  --primary-dark-color: #22175b; /* Primary colour used by elements such as buttons */
+  --very-dark-primary-color: #22175b;  /* Darker primary colour used for contrast or hover effects */
+  --primary-light-color: #fff; /* lighter colour or secondary colour */
+  --topbar-background-color: #FFF; /* background colour for the top bar of the navigation */
+  --menu-background-color: #FFFFFF; /* background colour for the menu bar of the navigation */
+  --menu-alternative-background-color: #FFFFFF; /* Alternative background colour for the menu bar, used by some buttons */
+  --menu-foreground-color: #000000; /* font colour used in the menu bar */
+  --link-color: #2199e8;
+  --toc-link-color: #22175b; /* Colour used by text on TOC sidebar elements */
+  --figure-caption-background-color: #003DAC; 
+  --figure-caption-color: #FFFFFF;
+}
