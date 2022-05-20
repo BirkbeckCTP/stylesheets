@@ -1,0 +1,17 @@
+.article-body h3 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.article-body h5 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.article-body h3 em {
+  font-style: normal;
+}
+
+.article-body h5 em {
+  font-style: normal;
+}
