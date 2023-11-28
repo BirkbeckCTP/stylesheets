@@ -1,0 +1,12 @@
+header .top-bar ul.dropdown ul {
+    background-color: var(--menu-background-color);
+}
+
+header .top-bar ul.dropdown ul li a {
+   background-color: var(--menu-background-color);
+  color: white;
+}
+
+header .top-bar ul.dropdown ul a:hover {
+  background-color: #802a27;
+}
